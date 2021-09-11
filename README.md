@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmareshDS
 - 👀 I’m interested in Data science
-- 💞️ I’m looking to collaborate on coding.
+- 💞️ I’m looking to collaborate on open source Machine Learning,Deep learning and data science projects.
 - 📫 How to reach me @ 8884312280
 
 <!---
